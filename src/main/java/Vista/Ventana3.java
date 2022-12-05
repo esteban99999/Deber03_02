@@ -17,10 +17,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-/**
- *
- * @author pamel
- */
+
 public class Ventana3 extends JFrame {
 
     private List<JPanel> jPanelList;

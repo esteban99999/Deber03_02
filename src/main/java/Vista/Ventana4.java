@@ -16,10 +16,9 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.border.BevelBorder;
-/**
- *
- * @author pamel
- */
+
+
+
 public class Ventana4 extends JFrame {
    private List<JPanel> jPanelList;
    private List<JButton> jButtonList;
