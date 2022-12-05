@@ -15,7 +15,7 @@ public class Principal {
         Ventana1 ventana1= new Ventana1();
         Ventana2 ventana2= new Ventana2();
         Ventana3 ventana3= new Ventana3();
-        
+        Ventana4 ventana4= new Ventana4(); 
     
     }
 }
